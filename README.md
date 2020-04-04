@@ -1,7 +1,7 @@
 # password-gen
 Generates password using regex
 
-![Proof Of Password strength](https://github.com/1hef001/password-gen/Capture.PNG)
+![Proof Of Password strength](https://github.com/1hef001/password-gen/blob/master/Capture.PNG)
 
 ## Usage
 
